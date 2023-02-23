@@ -1,3 +1,0 @@
-/home/faffonso/Documentos/Treinamento-Visao-Computacional/Pratica01/CMakeFiles/main.dir
-/home/faffonso/Documentos/Treinamento-Visao-Computacional/Pratica01/CMakeFiles/edit_cache.dir
-/home/faffonso/Documentos/Treinamento-Visao-Computacional/Pratica01/CMakeFiles/rebuild_cache.dir
